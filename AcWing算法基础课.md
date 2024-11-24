@@ -180,7 +180,7 @@ void merge_sort(int a[],int l,int r){
 
 #### AcWing.788 求逆序对数量
 
-![image-20240806112010719](https://github.com/MikasaEren-Wj/LearningNotes/blob/master/assets\image-20240806112010719.png)
+![image-20240806112010719](https://github.com/MikasaEren-Wj/LearningNotes/blob/fe517fcb296aa7d9d2f7db0a7668d45de2ab4f0e/assets/image-20240806112010719.png)
 
 实现思路：
 
